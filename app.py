@@ -127,4 +127,4 @@ if st.button("Predict Energy Consumption"):
 else:
     st.info("Set the sensor values in the sidebar, then click **Predict Energy Consumption**.")
 
-st.caption("Model: Random Forest Regressor (800 trees) trained on the UCI Appliances Energy Prediction dataset.")
+st.caption("Model: Random Forest Regressor trained on the UCI Appliances Energy Prediction dataset.")
