@@ -6,6 +6,10 @@ A machine learning web app that predicts household appliance energy consumption 
 
 Energy management in homes depends on understanding what drives appliance usage. This project predicts appliance energy consumption from sensor data available at any given moment — indoor temperature/humidity, outdoor weather, and time of day — so usage patterns can be anticipated instead of only measured after the fact.
 
+## Live Link
+
+ https://appliance-energy-consumption-predictor.streamlit.app/
+
 ## Dataset
 
 [Appliances Energy Prediction](https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction) — ~19,735 readings taken at 10-minute intervals over ~4.5 months from a low-energy house in Belgium, combining indoor room sensors with an outdoor weather station.
